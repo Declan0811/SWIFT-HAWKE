@@ -1,0 +1,22 @@
+General Prerequisites
+1. Raspbian Lite
+2. Python 3
+3. Pip
+------------------------------------
+Packages
+1. RPi.GPIO
+	pip install RPi.GPIO
+2. Adafruit LSM9DS1 (For interfacing with the gyro)
+	pip install adafruit-circuitpython-lsm9ds1
+3. OpenCV
+	pip install opencv-python-headless
+4. NumPy
+	pip install numpy
+5. Picamera
+	pip install picamera
+6. RPi.GPIO VideoCore
+	pip install RPi.GPIO-VideoCore
+7. Imutils
+	pip install imutils
+8. Matplotlib
+	pip install matplotlib
